@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradeep Kumar
+- 👋 Hi, I’m Pradeep.
 - 👀 I’m interested in webdev and ML
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on ...
